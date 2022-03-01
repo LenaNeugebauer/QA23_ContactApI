@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.api.tests.RestAssuredTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-01T14:34:47" hostname="LENA" time="1.555">
+  <properties/>
+  <testcase name="deleteAllContactsPositiveTest" classname="com.telran.api.tests.RestAssuredTests" time="1.555"/>
+  <system-out><![CDATA[Your contacts was deleted!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
